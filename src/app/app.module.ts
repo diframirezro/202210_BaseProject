@@ -6,7 +6,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PlantasModule } from './plantas/plantas.module';
 
-
 @NgModule({
   declarations: [
     AppComponent
